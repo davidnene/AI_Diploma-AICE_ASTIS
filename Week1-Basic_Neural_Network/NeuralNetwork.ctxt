@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NeuralNetwork
+comment1.params=
+comment1.target=NeuralNetwork()
+comment2.params=inputs
+comment2.target=void\ doForwardPropagation(int[])
+comment3.params=target
+comment3.target=void\ doBackwardPropagation(int)
+comment4.params=
+comment4.target=double\ getOutcome()
+numComments=5

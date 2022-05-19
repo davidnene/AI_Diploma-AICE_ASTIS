@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RunNeuralNetwork
+comment1.params=stuff
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ runMainMenu()
+comment3.params=
+comment3.target=void\ returnToMainMenu()
+comment4.params=
+comment4.target=void\ doTraining()
+comment5.params=
+comment5.target=java.util.ArrayList\ getTrainingData()
+numComments=6

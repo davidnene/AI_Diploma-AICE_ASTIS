@@ -11,5 +11,5 @@ The project aims to assist the learner with fundamental skills in developing a n
 19/May/2022
 
 ## Author
-David Nene | (@davidnene)[https://github.com/davidnene]
+David Nene | [@davidnene](https://github.com/davidnene)
 

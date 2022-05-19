@@ -8,14 +8,14 @@ Developing a fully functioning high accuracy deep learning model that can be abl
 ## Completion Date
 20/May/2022
 
-##Running the .ipynb file
+## Running the .ipynb file
 Incase you download the notebook to your pc, 
 1. Ensure you have installed tensorflow
 2. The Data directory has the Audiobooks_Data.csv and New_Audiobooks_Data.csv used in the notebook
 3. Models have been saved in the Models directory
 
-##Deeplearning Model Accuracy (tf.keras)
+## Deeplearning Model Accuracy (tf.keras)
 90%
 
-##Author
+## Author
 David Nene | [@davidnene](https://github.com/davidnene)
